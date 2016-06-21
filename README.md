@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+i am a network   with even bigger passion for coding (python,javascript,Php ..)
